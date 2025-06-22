@@ -13,5 +13,5 @@ Elige solo los archivos correspondientes a que arquitectura se basa tu Windows
 Estos son archivos que se implementaran en la carpeta **System32** y **SysWOW64** (Carpetas cruciales para el correcto funcionamiento de Windows) Porfavor sigue al pie de la letra los pasos del tutorial que puedes encontrar en mi Blog o en Youtube.
 
 # Creditos
-- Creador del Nuevo Tutroial y Repositorio: [Jalzao](https://github.com/Jalzao)
+- Creador del Nuevo Tutorial y Repositorio: [Jalzao](https://github.com/Jalzao)
 - Creditos de Archivos: [Enderpool](https://www.youtube.com/@Sr-Pool)
